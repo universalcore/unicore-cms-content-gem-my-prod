@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T17:45:19.191329+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:45:19.191506+00:00", 
+  "modified_at": "2015-03-01T02:51:26.689072+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "996476d21d214166bdd350095c06e46a"
+  ], 
   "id": null, 
   "content": "**ANDA TELAH MULA DATANG HAID?  INI SEDIKIT FAKTA:**\r\n\r\n - Setiap bulan, ovari anda membebaskan telur dan lapisan uterus (rahim) anda menebal menjangka untuk membawa embrio\u2014yang berlaku apabila telur disenyawakan (dengan kata lain, apabila anda hamil). Jika telur tidak disenyawakan pada bulan tersebut, lapisan uterus pecah dan kemudian telur dan lapisan dikeluarkan daripada badan anda\u2014itu adalah darah haid anda. \r\n - Jika anda kurus, anda mungkin tidak datang haid atau mungkin berubah-ubah. Haid anda boleh berhenti jika badan anda kekurangan lemak, anda sangat tertekan atau tidak mempunyai cukup zat besi dalam darah anda. Jika haid berhenti, anda perlu berjumpa jururawat atau doktor. \r\n - Apabila anda tidak datang haid, badan anda menghantar isyarat, oleh sebab itu berikan perhatian. Cuba makan makanan sihat dan dapatkan banyak tidur. Jika anda tidak datang haid selama beberapa bulan, anda perlu berjumpa jururawat atau doktor. \r\n - Sebaik sahaja anda mula datang haid, badan anda boleh hamil dan melahirkan bayi jika anda mengadakan hubungan seks. Anda perlu memastikan anda melindungi diri anda daripada hamil jika anda tidak bersedia untuk melahirkan bayi.\r\n - Mengalami sedikit kekejangan dalam perut ialah normal sewaktu datang haid. Jika anda mengalami datang haid yang menyakitkan, dengan meletakkan beg air suam pada perut anda buat sementara waktu mungkin membantu. Lebih baik untuk melakukan senaman ringan seperti berjalan sekitar daripada kekal di satu tempat. Sila rujuk doktor jika rasa sangat sakit. \r\n - Jika tiada tuala wanita dan anda menggunakan kain, pastikan kain itu lembut, bersih dan dikeringkan dengan betul.\r\n\r\n**Gadis di seluruh dunia biasanya datang haid antara umur 12 - 14 tahun, tetapi mungkin lebih awal atau lewat. Kedatangan haid boleh menjadi mengejutkan atau menakutkan buat anda. Ini ialah kisah seorang gadis.**", 
   "source": "cc4732e92c2e46b2869509b918eba825", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "have-you-started-menstruating", 
   "uuid": "54d4bff9a3b742678737fa89e2280197"
