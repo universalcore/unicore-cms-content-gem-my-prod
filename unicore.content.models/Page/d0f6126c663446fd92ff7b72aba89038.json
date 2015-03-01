@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T17:50:50.708658+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:50:50.708830+00:00", 
+  "modified_at": "2015-03-01T02:51:26.601941+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "84883d80120641a8b5b348bcdc09eae9"
+  ], 
   "id": null, 
   "content": "**CARA MENGELAKKAN DIRI DARIPADA SAKIT**\r\n\r\n - Kebanyakan kuman virus tersebar melalui udara dalam bersin atau batuk. Kuman juga boleh tersebar dalam peluh, air liur dan darah. Sesetengahnya dipindahkan daripada seseorang kepada seseorang dengan menyentuh sesuatu yang tercemar, seperti berjabat tangan dengan seseorang yang demam, kemudian menyentuh hidung anda sendiri. Jika salah seorang saudara anda sakit, tutup mulut anda dan jauhi mereka jika boleh. Jika anda berada di ruang tertutup, cuba dan buka tingkap untuk membolehkan udara segar masuk dan kuman keluar. \r\n - CUCI TANGAN ANDA! Ingat bahawa kuman takut sabun dan air. Mencuci tangan anda dengan kerap ialah cara terbaik untuk menentang kuman. Pastikan badan kuat dan sihat dengan memakan makanan yang sihat, bersenam dengan kerap dan mendapat tidur yang cukup. Semua ini akan membantu anda bersedia untuk melawan kuman yang menyebabkan penyakit. \r\n - Tuberkulosis (TB) ialah penyakit yang disebabkan oleh bakteria kecil (kuman). Bakteria TB berlegar di dalam udara apabila seseorang yang menghidap TB batuk, bersin, bercakap atau menyanyi. Orang berhampiran mungkin tersedut bakteria ini dan dijangkiti. Anda mungkin menyedari sesetengah tanda ini jika anda mengalaminya:  Berpeluh pada waktu malam. Berasa lemah dan letih.  Batuk berpanjangan (berlaku selama sekurang-kurangnya tiga minggu). Keluar darah semasa anda batuk. Sakit dada. Bunyi berdehit semasa anda bernafas. Masalah pernafasan. Jika anda berasa pelik atau merasakan sesuatu tidak kena, jangan tunggu. Terus pergi ke pusat kesihatan, klinik atau hospital terdekat dengan anda.\r\n\r\n**Berjuta-juta orang di seluruh dunia menghidap penyakit yang mereka dapat daripada orang lain. Ini ialah kisah seorang gadis.** ", 
   "source": "849637d358b045f59864b28eb84e431f", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-avoid-getting-sick", 
   "uuid": "d0f6126c663446fd92ff7b72aba89038"
