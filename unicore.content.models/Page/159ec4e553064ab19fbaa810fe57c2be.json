@@ -6,15 +6,17 @@
   "primary_category": "1aa7578ce62a4d038acacfe409c02bd5", 
   "created_at": "2015-01-23T16:46:36+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T16:49:25.894330+00:00", 
+  "modified_at": "2015-03-01T02:51:11.527098+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d203813546fa4f82b15a6830c07c2850"
+  ], 
   "id": null, 
   "content": "*Peragaan ialah profesion yang dihormati untuk gadis di kebanyakan negara. Ini ialah kisah seorang gadis.*  \r\n\r\nNama saya Aurore dan saya menetap di Rwanda. Sejak saya berumur 13 tahun, saya suka menonton model bekerja. Saya selalu ikut kakak saya untuk melihat dia menjadi model dan saya jatuh cinta dengan apa yang saya lihat: wanita yang tabah, cantik dan yakin meraikan kecantikan dalaman dan luarannya. Apabila saya berumur 17 tahun, saya juga mula menceburi bidang peragaan untuk suka-suka. Tetapi, dengan cepat saya sedar bahawa orang lain tidak memberikan perhatian kepada saya. Bos-bos kejam. Model dilayan seperti barang, bukan manusia.\r\n\r\nPada suatu hari selepas melihat rakan saya ditengking lagi, saya mendapat idea: Saya boleh melakukan kerja yang lebih baik daripada bos-bos ini! Saya perlu memiliki dan menjalankan agensi peragaan yang saya akan pastikan model dilayan dengan hormat!       \r\n\r\nApabila masa berlalu, saya mula benar-benar mempercayai idea saya. Dengan teliti, saya memerhatikan cara mereka bekerja dan cara agensi peragaan dijalankan. Saya tahu saya perlu bekerja keras untuk merealisasikannya. Saya meminta nasihat daripada orang yang mempunyai pengalaman dalam perniagaan. Saya bercakap dengan orang muda dan model lain mengenai impian saya. Semua orang memberi galakan kepada saya!\r\n\r\nIbu bapa saya juga menyokong saya. Mereka sentiasa berkata bahawa saya boleh membuatkan impian saya menjadi kenyataan jika saya berusaha cukup kuat. Saya berterima kasih kepada mereka.\r\n\r\nKemudian, pada bulan Julai 2011, saya mengambil langkah yang besar dan memutuskan untuk memulakan perniagaan saya sendiri. Pada bulan November tahun itu, saya melancarkan syarikat saya sendiri, Syarikat Ikobe Modelling!\r\n\r\nIni masa yang mengujakan tetapi menakutkan.  Mengenang masa lampau, saya sangat bangga kerana saya cukup berani untuk bekerja keras dan mengikuti impian saya.  Pada hari ini, perniagaan terus berkembang dan saya boleh menyara diri sendiri dengan duit saya sendiri. \r\n\r\nTetapi, apa yang benar-benar hebat ialah saya boleh mengupah orang muda lain supaya mereka juga boleh menyara diri mereka sendiri. Kami bekerja bersama-sama untuk membangunkan ekonomi Rwanda dan kami melakukannya dengan bangga dan maruah.\r\n\r\nWahai gadis, tidak kira apa impian anda, sentiasa ingat untuk berusaha keras, menghargai orang lain, menghormati diri sendiri dan merealisasikan impian anda! Setiap pagi, saya bangun dari tidur dengan gembira kerana mengetahui saya bekerja untuk mendapatkan masa depan yang lebih cerah. \r\n", 
   "source": "89327104d3f04db19a87e112faeb5d16", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Aurore", 
   "uuid": "159ec4e553064ab19fbaa810fe57c2be"
