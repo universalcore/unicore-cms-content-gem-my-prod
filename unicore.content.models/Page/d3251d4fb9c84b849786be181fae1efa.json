@@ -6,15 +6,17 @@
   "primary_category": "1aa7578ce62a4d038acacfe409c02bd5", 
   "created_at": "2015-01-23T16:51:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:04:52.123925+00:00", 
+  "modified_at": "2015-03-01T02:51:11.434690+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "478ca09dc7d64cd6a007b00f8b4cfbcc"
+  ], 
   "id": null, 
   "content": "*Sesetengah orang merasakan ada kerja yang wanita tidak boleh lakukan! Malahan, sesetengah negara mempunyai undang-undang untuk mengawalnya. Ini ialah kisah seorang gadis.*\r\n\r\nNama saya Eugenie, saya berumur 18 tahun dan saya menetap di Rwanda. Permulaan kisah saya sedih - bapa dan adik-beradik saya mati meninggalkan ibu dan saya sahaja.  Ibu saya hebat.  Walaupun mengharungi saat-saat sukar, dia menunjukkan kepada saya cara untuk bergantung pada diri sendiri dan berusaha keras.  Dia hero saya. Kemudian, saya berpeluang untuk membalas jasanya!\r\nSemasa saya di sekolah rendah, kami tidak mempunyai bekalan elektrik di rumah. Ini sangat menyukarkan kerja harian dan kerja rumah. Saya bergelut melakukan kerja rumah dengan cahaya malap daripada lilin. Saya mula mengimpikan mengenai betapa hebatnya jika saya boleh memberikan cahaya kepada rumah saya. Pada tahun berikutnya, semuanya mengenai apa yang saya fikirkan. Saya bermimpi untuk menjadi juruelektrik. Saya ingin menunjukkan bahawa saya boleh belajar dengan gigih dan cemerlang - bahkan lebih baik daripada budak lelaki di sekolah!   Saya boleh menjadi orang yang membawa cahaya kepada kampung kami.\r\nAkhirnya, saya bercakap dengan seorang juruelektrik di bandar. Dia mengajar saya cara menghubungkan wayar kepada bateri dan menghasilkan tenaga elektrik. Selepas sedikit pengajaran, saya dapat melakukannya dengan betul! \r\nApabila jiran kami nampak apa yang saya lakukan, mereka juga inginkan bekalan elektrik di rumah mereka. Saya dapat melakukan perkara yang sama, mendapatkan bekalan elektrik untuk mereka dan meminta mereka membayar sedikit wang bagi menerangi rumah mereka. Wang yang saya peroleh sebagai juruelektrik komuniti digunakan untuk membayar yuran sekolah saya.  \r\nPada hari ini, saya berada dalam tahun kelima mempelajari kejuruteraan elektrik di kolej yang sangat baik di Rwanda. \r\nNasihat saya kepada gadis-gadis adalah untuk belajar sebanyak mungkin apabila anda berada di sekolah.  Tiada kerja yang hanya tersedia untuk lelaki. Gadis juga perlu belajar subjek teknikal! Wanita menjadi saintis, jurutera dan penyelidik yang hebat. Oleh sebab itu, jika itu yang anda minat, belajar dengan gigih dan jangan putus asa. Bersama-sama kita boleh menjadikan dunia ini tempat yang lebih baik!\r\n\r\n**Mengapakah belajar dengan gigih? Baca artikel ini untuk mengetahui:**\r\n", 
   "source": "bcd944ba380f440c809ec53c0c152581", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Eugenie", 
   "uuid": "d3251d4fb9c84b849786be181fae1efa"
