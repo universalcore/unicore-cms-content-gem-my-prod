@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T17:04:29.400281+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:04:29.400654+00:00", 
+  "modified_at": "2015-03-01T02:51:28.454881+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d3251d4fb9c84b849786be181fae1efa"
+  ], 
   "id": null, 
   "content": "**MENGAPAKAH BELAJAR DENGAN GIGIH? KERANA PENDIDIKAN BOLEH MEMBUATKAN MASA DEPAN ANDA CERAH!**\r\n\r\n - Kadangkala, sekolah boleh menjadi mencabar dan sukar untuk mengikuti subjek berbeza yang sangat banyak.  Tetapi, dengan mengetahui pangkalan pengetahuan yang meluas akan membantu anda memasuki dunia untuk mengejar impian anda.\r\n - Jika anda tidak ke sekolah, cari program latihan atau seseorang yang akan membantu anda mempelajari kemahiran dan mencapai matlamat anda.  Cari model peranan \u2013 seseorang yang anda hormati, guru atau malahan ibu bapa. Minta bantuan dan inspirasi di sepanjang perjalanan tersebut. \r\n - Matlamat ialah sesuatu yang anda secara peribadi ingin capai. Anda perlu mencari matlamat anda dalam kehidupan. Melalui cara ini, anda boleh membuat rancangan untuk berusaha ke arah matlamat ini.  Simpan buku nota bersama anda supaya anda boleh sentiasa mencatatkan impian dan matlamat anda. Sentiasa periksa perkembangan padanya.\r\n - Tetapkan matlamat yang akan membuatkan anda bermotivasi dan memfokuskan kepada kerja sekolah dan latihan anda. Adakah anda ingin lulus? Menjadi pelajar paling pandai dalam kelas? Atau mendapat markah yang lebih baik? Tuliskannya dan baca dengan kerap.\r\n\r\n**Sesetengah orang merasakan ada kerja yang wanita tidak boleh lakukan! Malahan, sesetengah negara mempunyai undang-undang untuk mengawalnya.  Eugene tidak percaya mengenainya. Baca kisahnya di sini:**\r\n", 
   "source": "f3712b13213548548f85465f304ceaab", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-study-hard", 
   "uuid": "478ca09dc7d64cd6a007b00f8b4cfbcc"
