@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T17:40:46.934002+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:40:46.934174+00:00", 
+  "modified_at": "2015-03-01T02:51:26.775378+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "5614b2ec9ca34d41ab198b66d6fe988d"
+  ], 
   "id": null, 
   "content": "**BAGAIMANAKAH ANDA MENGATAKAN TIDAK? INI CARANYA:**\r\n\r\n - Rancangkannya. Fikirkan masak-masak situasi terlebih dahulu. Rancangkan cara anda akan katakan \u201ctidak\u201d. Katakan perkataan itu dengan kuat dalam cara berbeza. Berlatih di hadapan cermin atau dengan rakan yang dipercayai.\r\n - Elakkannya. Cuba elakkan daripada meluangkan masa dengan orang yang membuatkan anda berasa tidak selesa atau cuba melakukan perkara yang anda tidak mahu lakukan. \r\n - Katakannya dengan kuat. Jika seseorang cuba meminta anda melakukan sesuatu yang anda tahu anda tidak patut lakukan atau sesuatu yang membuatkan anda berasa gugup, katakan TIDAK dengan kuat.  Atau anda boleh katakan, \u201cTidak, terima kasih. Saya tidak melakukan perkara itu\u201d. \r\n - Lakukan perkara yang bijak:  Tanya kepada diri sendiri akibat daripada perbuatan tersebut? Apakah yang boleh menjadi salah? Apakah yang rakan atau keluarga anda fikirkan jika anda membuat pilihan ini? \r\n - Elakkan kehamilan. Jika anda ingin mengelak daripada hamil semasa anda mengadakan hubungan seks, anda perlu menggunakan pencegah kehamilan yang paling sesuai untuk anda. Sesetengah pencegah kehamilan mungkin diberikan secara percuma oleh kerajaan, klinik atau organisasi lain. Terokai sekitar tempat anda untuk mengetahui tempat anda boleh mendapatkannya. Kondom boleh mengelakkan kehamilan dan juga melindungi anda daripada penyakit menular secara seksual. \r\n\r\nDi seluruh dunia, ramai gadis hamil sebelum mereka bersedia.  Khadija from Malawi is one of these girls. Ini kisahnya:", 
   "source": "eb349473ac504a04aa77217ee441e27a", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-know-how-say-no", 
   "uuid": "89d57d3ecd734a32be9bb9a360ee51d1"
