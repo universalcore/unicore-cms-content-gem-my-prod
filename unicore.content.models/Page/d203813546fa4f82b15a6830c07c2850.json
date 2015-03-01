@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T16:49:17.149254+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T16:49:17.149431+00:00", 
+  "modified_at": "2015-03-01T02:51:28.522059+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "159ec4e553064ab19fbaa810fe57c2be"
+  ], 
   "id": null, 
   "content": "**ANDA MEMPUNYAI IMPIAN? REALISASIKANNYA!** \r\n\r\n - Jika anda mempunyai matlamat yang jelas dalam fikiran, cari orang yang pernah berjaya dalam bidang yang sama. Tanya mereka cara untuk merealisasikannya. \r\n - Baca semua yang boleh mengenai orang yang berjaya dalam bidang anda. Ambil tahu mengenai perjalanan mereka dan pilihan yang diambil oleh mereka. \r\n - Cari program latihan atau kelab gadis yang boleh membantu anda mempelajari tentang bajet, simpanan dan pengurusan wang. Kemahiran ini diperlukan sepanjang hidup anda. \r\n - Jangan takut untuk membuat kesilapan dalam perjalanan itu. Belajar daripada kesilapan. Kesilapan membuatkan anda lebih tabah.\r\n - Percaya dengan matlamat anda dan terus bermotivasi. Terima hakikat bahawa mungkin terdapat saat-saat yang sukar. Tetapi, ketahui bahawa anda boleh mencapai perkara yang hebat dalam hidup!\r\n\r\nAurore menetap di Rwanda. Dia telah mengejar impiannya untuk memulakan perniagaannya sendiri. Baca kisahnya di sini:\r\n", 
   "source": "c0412b37734449e5a60d6e3a43399f4c", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-have-dreams", 
   "uuid": "d203813546fa4f82b15a6830c07c2850"
