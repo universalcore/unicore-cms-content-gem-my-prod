@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T17:10:41.579930+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:10:41.580117+00:00", 
+  "modified_at": "2015-03-01T02:51:28.386268+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f5b508485a324b6a9d3e9eb142845dc2"
+  ], 
   "id": null, 
   "content": "**ADAKAH ANDA DALAM KERUMUNAN ORANG RAMAI YANG TIDAK BAIK? BINA PERSAHABATAN YANG BAIK UNTUK KEHIDUPAN** \r\n\r\n - Pilih rakan anda dengan bijak. Bercampur dengan orang yang positif akan menggalakkan anda terus mencuba walaupun anda tawar hati. \r\n - Elakkan berkawan dengan orang yang mentertawakan atau merendahkan anda.\r\n - Luangkan masa dengan orang yang ingin melakukan perkara yang sama anda lakukan. Pilih rakan yang mempunyai impian untuk terus pergi ke sekolah, mendapat gred yang baik dan mencipta peluang untuk diri mereka sendiri. Mereka mempunyai masa depan yang hebat - sama seperti anda!\r\n - Rakan baik ialah seseorang yang anda sayang dan sokong tidak kira apa jua keadaan. Dan mereka melakukan perkara yang sama kepada anda. Rakan sebenar mempunyai hala tuju dan visi untuk masa depan mereka. Rakan membantu satu sama lain untuk mengelakkan daripada membuat keputusan buruk yang mungkin menjejaskan masa depan mereka.\r\n - Jadi rakan yang baik. Dengar, beri sokongan dan menjadi orang yang boleh dipercayai. Bantu satu sama lain dan memaafkan rakan yang membuat kesilapan. \r\n\r\nLeidy ialah seorang gadis Columbia yang berusia 17 tahun. Perdagangan ubat dan konflik berterusan membuatkan kejiranan tertentu - atau bario - di bandarnya Bogota sangat berbahaya, terutama sekali kepada gadis muda. Ini kisahnya:\r\n", 
   "source": "8e2ab677eaf54667af590f3e5a5b4ffa", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-bad-crowd", 
   "uuid": "d4182659e8ce48fc8d445b845275ff2f"
