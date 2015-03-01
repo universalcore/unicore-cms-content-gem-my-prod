@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T16:45:07.173529+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T16:45:07.173727+00:00", 
+  "modified_at": "2015-03-01T02:51:28.584515+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "63e3f49172d648388070e7caf75dbc08"
+  ], 
   "id": null, 
   "content": "**PASTIKAN ANDA SELAMAT** \r\n\r\nMalangnya, dunia kita tidak sentiasa selamat dan dilindungi - terutama sekali untuk gadis dan wanita muda. Gangguan seksual boleh berlaku kepada gadis di dalam rumah mereka, sekolah, pasar, tempat kerja atau di mana sahaja. Anda perlu bersedia untuk menangani situasi ini.\r\n\r\nIni ialah beberapa perkara yang anda boleh LAKUKAN untuk membantu memastikan anda selamat:\r\n\r\n - Elakkan lokasi berisiko: Jika anda tahu bahawa beberapa tempat yang anda perlu pergi mempunyai risiko fizikal atau risiko lain - cuba elak sahaja daripada pergi ke situ jika boleh.\r\n - Gunakan sistem rakan: bergerak di sekitar ruang awam dengan seorang atau lebih rakan - jangan pergi sendirian! \r\n - Cari caperon yang dipercayai: jika anda berasa tidak selamat di tempat tertentu pada masa tertentu (seperti berjalan ke atau dari sekolah) tetapi anda MESTI PERGI, minta seseorang yang anda percaya untuk menemani anda.\r\n - Sentiasa beritahu seseorang tempat/masa anda pergi dan masa anda akan kembali. Jika boleh, minta seseorang bertemu anda di destinasi anda. Melalui cara ini, orang lain dapat tahu dan boleh mengambil tindakan sekiranya sesuatu berlaku.\r\n - BERITAHU orang dewasa apabila sesuatu berlaku kepada anda atau rakan anda - dan galakkan mereka untuk membantu memastikan situasi ditangani dan tidak berlaku lagi!\r\n - BUAT RANCANGAN: Rujuk orang dewasa yang dipercayai jika berlaku sesuatu yang tidak kena. Pastikan anda mengetahui tempat untuk mencari orang ini atau cara menghubungi mereka apabila anda memerlukan bantuan. Berbual dengan rakan anda yang lain mengenai mencari orang yang anda boleh percaya dan memastikan anda dan rakan anda selamat.\r\n\r\n**Ramai gadis dan wanita di India diminta untuk memerap di rumah iaitu tempat yang lebih selamat untuk mereka daripada gangguan di luar. Tetapi, lebih ramai gadis mencari keberanian untuk mengubahnya. Ini ialah kisah seorang gadis.** ", 
   "source": "98f5f3cb3bc54e88a8937972eb3ee25c", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "keep_yourself_safe", 
   "uuid": "3e759f36115a43ae89035dd27b477e13"
