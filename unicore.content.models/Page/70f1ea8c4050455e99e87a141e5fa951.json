@@ -6,15 +6,17 @@
   "primary_category": "1aa7578ce62a4d038acacfe409c02bd5", 
   "created_at": "2015-01-23T17:22:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:25:17.390464+00:00", 
+  "modified_at": "2015-03-01T02:51:11.214466+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7b9cf4f6cc594058b0ff419a517ce16d"
+  ], 
   "id": null, 
   "content": "*Terdapat hampir 3.7 juta anak yatim piatu di Afrika Selatan - hampir separuh daripada mereka kehilangan ibu bapa mereka akibat penyakit berkaitan AIDS. Ini ialah kisah seorang gadis.*\r\n\r\nNama saya Preity, saya berumur 20 tahun dan menetap di Afrika Selatan. Semasa saya muda, saya tinggal dengan mak cik dan pak cik saya. Mereka membuatkan saya percaya bahawa mereka ada hak untuk memukul dan melayani saya dengan teruk kerana saya bukan anak kandung mereka dan saya tiada tempat lain untuk pergi. Saya terperangkap. \r\n\r\nJika saya meminta tuala wanita daripada mak cik semasa saya datang haid, dia akan berkata: \u201cGuna surat khabar!\u201d Apabila saya ingin membetulkan rambut saya untuk kelihatan cantik, dia akan berkata: \u201cAda air dan cahaya matahari...\u201d.  Sangat teruk.\r\n\r\nHidup sukar bagi saya pada masa itu. Saya tawar hati.  Saya hanya boleh mengeluarkan buku sekolah dan membuat kerja rumah pada waktu lewat malam selepas saya selesai kerja harian saya yang sukar. \r\n\r\nPada suatu hari, selepas berfikir mengenainya dalam masa yang sangat lama, saya kumpulkan cukup keberanian untuk bercakap dengan pekerja sosial yang saya ketahui daripada guru di sekolah. Saya sangat takut. Tetapi, saya sangat gembira saya telah melakukannya.  Dia mengubah hidup saya.\r\n\r\nApabila saya berjumpa dengannya, saya memberitahu kisah saya kepada dia dan saya menangis.  Dia melihat mata saya dan memberitahu saya, \u201cAnak, TIADA SESIAPA mempunyai hak untuk memukul kamu atau melayan kamu dengan teruk\u201d. Dia pergi ke rumah saya dan akhirnya, membantu saya mencari tempat lain untuk tinggal jauh daripada penjaga saya. Di sana, saya dijaga dan boleh memberi tumpuan kepada pelajaran saya dan saya menjadi tabah.\r\n\r\nSaya takut untuk meminta bantuan semasa saya berada di rumah mak cik dan pak cik saya.  Tetapi, saya sangat gembira saya telah melakukannya. Sekarang, saya berasa gembira dan selamat. Saya berbangga sekali lagi. Saya seorang gadis yang mempertahankan hak saya dan berjaya. \r\n\r\n**Adakah anda dilayan dengan buruk? Baca artikel ini untuk mengetahui perkara yang perlu dilakukan:**\r\n", 
   "source": "36b2957c75ec471d82d456d077b9c76c", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Preity", 
   "uuid": "70f1ea8c4050455e99e87a141e5fa951"
