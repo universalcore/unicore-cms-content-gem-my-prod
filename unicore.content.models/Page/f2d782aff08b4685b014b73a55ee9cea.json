@@ -6,15 +6,17 @@
   "primary_category": "3ef370d6156f41a1a75529c6050776a1", 
   "created_at": "2015-01-23T17:16:27.135783+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T17:16:27.135988+00:00", 
+  "modified_at": "2015-03-01T02:51:28.325787+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "217eba55196042df974d841debed92d2"
+  ], 
   "id": null, 
   "content": "**ANDA BERGELUT UNTUK MENCARI HALA TUJU DAN MELUAHKAN EMOSI?** \r\n\r\n - Cuba aktiviti baru apabila berpeluang. Anda mungkin mendapati bakat semula jadi yang anda tidak tahu anda memilikinya!\r\n - Galakkan diri anda untuk berfikir secara positif dan bukan secara negatif. Contohnya, katakan pada diri sendiri, \u2018Saya berani\u2019, \u2018Saya cantik\u2019 atau \u2018Saya boleh melakukan ini\u2019.\r\n - Cari rakan dan mentor yang menyokong anda mengembangkan bakat anda. Rakan boleh membina keyakinan diri anda dengan menggalakkan anda untuk terus mencuba walaupun anda berasa sedih. Mereka juga perasan apabila anda melakukan dengan baik dan meraikannya bersama anda. Bergaul dengan rakan positif yang memberikan galakan kepada anda. \r\n - Semua orang yang melalui proses baligh merasakan sangat beremosi. Apabila anda berasa diselubungi emosi anda, cara yang dapat membantu ialah dengan menarik nafas, melakukan sesuatu yang aktif seperti menari atau berjalan (jika selamat) atau bercakap dengan orang yang dipercayai.\r\n\r\n**Ramai gadis bergelut untuk mencari jalan mereka walaupun kehidupan miskin dan peluang terhad.  Mabreidy ialah seorang gadis yang berasa seperti ini. Ini kisahnya:**\r\n", 
   "source": "4683bf5f2fc1465c9bb654126a358eb2", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-struggling-find-direction", 
   "uuid": "f2d782aff08b4685b014b73a55ee9cea"
